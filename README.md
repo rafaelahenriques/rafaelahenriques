@@ -1,6 +1,8 @@
 # Hi, I'm Rafaela
 
-I'm a web and mobile developer studying Digital Design & Development at [Howest](https://www.howest.be/en) in Belgium, majoring in Creative Development. I build projects end to end, from the interface down to the API and the database behind it.
+I’m a web and mobile developer studying Digital Design & Development at [Howest](https://www.howest.be/en) in Belgium, majoring in Creative Development and Experience Design.
+
+I focus on full-stack development, building applications from the user interface to the backend, APIs and databases.
 
 **Open to software and web development internships in Belgium, the UK and the US.**
 
